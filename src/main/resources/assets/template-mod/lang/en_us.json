@@ -1,7 +1,22 @@
 {
   "item.template-mod.pink_garnet": "Pink Garnet",
   "item.template-mod.raw_pink_garnet": "Raw Pink Garnet",
+  "item.template-mod.chisel": "Chisel",
+  "item.template-mod.cauliflower": "Cauliflower",
+  "item.template-mod.starlight_ashes": "Starlight Ashes",
 
   "block.template-mod.pink_garnet_block": "Pink Garnet Block",
-  "block.template-mod.raw_pink_garnet_block": "Raw Pink Garnet Block"
+  "block.template-mod.raw_pink_garnet_block": "Raw Pink Garnet Block",
+  "block.template-mod.pink_garnet_ore": "Pink Garnet Ore",
+  "block.template-mod.pink_garnet_deepslate_ore": "Pink Garnet Deepslate Ore",
+  "block.template-mod.magic_block": "Magic Block",
+
+  "itemgroup.template-mod.pink_garnet_items": "Pink Garnet Items",
+  "itemgroup.template-mod.pink_garnet_blocks": "Pink Garnet Blocks",
+
+  "tooltip.template-mod.magic_block.tooltip": "This block is imbued with §9MAGICAL properties. Handle with care!",
+
+  "tooltip.template-mod.chisel.shift_down": "This chisel is a versatile tool used for shaping and carving various materials. It can be used to create intricate designs and patterns on blocks, making it a valuable asset for builders and decorators alike.",
+  "tooltip.template-mod.chisel": "§eHold §9SHIFT §eto see more information.",
+  "tooltip.template-mod.cauliflower.tooltip": "This is delicious!"
 }
